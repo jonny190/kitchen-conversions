@@ -1,0 +1,6 @@
+.git
+.gitignore
+public
+__pycache__
+*.pyc
+*.md
